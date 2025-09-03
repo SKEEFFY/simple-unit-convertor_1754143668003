@@ -4,6 +4,5 @@ export const mass = {
     {names: ['kilogram', 'kilograms'], symbols: ['kg'], ratio: 0.001},
     {names: ['pound', 'pounds'], symbols: ['lb', 'lbs'], ratio: 0.00220462},
     {names: ['ounce', 'ounces'], symbols: ['oz'], ratio: 0.035274},
-    {names: ['yard', 'yards'], symbols: ['yd'], ratio: 1/0.9144},
   ],
 };
